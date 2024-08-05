@@ -5,8 +5,6 @@ Rules for the project are simple:
 - You can use whatever library you want to complete the task
 - Go bananas in the implementation, because the project is public this serves also as a self-promoting tool
 
-
-
 ## Project implementation:
 
 - ###### Current implementation:
@@ -35,4 +33,4 @@ Rules for the project are simple:
   - `cmake --build build`
 - Now, once the code is build successfully run the main file from build folder i.e., below command
 
-  - `./build/appa/main .`
+  - `./build/apps/main .`
